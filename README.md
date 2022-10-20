@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/luissandoval6/0946ab60-1b39-4a60-99ca-c93f8eb0dfc7/dd56e251-3934-4f5d-8398-4de3077ed896/_apis/work/boardbadge/770f882e-aa0c-4aaf-889e-f4e45eb58572)](https://dev.azure.com/luissandoval6/0946ab60-1b39-4a60-99ca-c93f8eb0dfc7/_boards/board/t/dd56e251-3934-4f5d-8398-4de3077ed896/Microsoft.RequirementCategory)
 # validaciondedocumentos
